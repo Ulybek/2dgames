@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'ArteriaDemo';
+	src: url('../fonts/arteriademo.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/arteriademo.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/arteriademo.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/arteriademo.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/arteriademo.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/arteriademo.svg#arteriademo') format('svg'); /* Chrome < 4, Legacy iOS */
+}
